@@ -1,23 +1,25 @@
 # Post-project review — stakeholders & real-world scope
 
-**Track:** Module 4 — Project / PM · **When:** Week 2, Day 4 · **Status:** Optional / Extra
+**Track:** Module 4 — Project / PM · **When:** Week 2, Day 4 · **Status:** Optional / 
 
-This repository contains everything you need for this lab.
 
-## Files
+# Astrolume — Post-Project Review Lab
 
+This repository contains my post-project review of **Astrolume**, an AI-powered podcast generator developed during the Ironhack AI Consulting Bootcamp.
+
+The lab examines the project's stakeholders, the differences between a classroom prototype and a production-ready application, and how the original scope would need to change for a real deployment.
+
+## Repository Contents
+
+| File | Description |
+|---|---|
+| `README.md` | Overview of the lab and repository contents |
+| `astrolume_post_project_review.md` | Completed project snapshot, stakeholder analysis, demo-to-production assessment, revision brief, and checklist |
 - [`instructions.md`](./instructions.md) — the lab instructions
 - [`rubric.md`](./rubric.md) — how your submission is graded; this is what the AI reviewer checks your PR against
 
-## How to complete this lab
+## Project Context
 
-1. **Fork** this repository.
-2. Do the work described in `instructions.md`, committing to your fork.
-3. Open a **pull request** back into this repository.
-4. You'll receive **AI feedback** on your PR based on `rubric.md`. Address any blocking feedback and push updates to the same PR.
+Astrolume generates personalized, astrology-inspired podcasts based on a user's personal question and reference material. The prototype uses Python, Gradio, and OpenAI for script and audio generation.
 
-## Submission hygiene
-
-- Keep this repository scoped to this lab only — no unrelated projects or personal files.
-- Use clear, descriptive filenames.
-- Remove secrets, API keys, and tokens before committing.
+This repository contains the **project review**, not the application source code.
